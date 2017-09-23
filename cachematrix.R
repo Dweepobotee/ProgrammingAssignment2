@@ -1,5 +1,5 @@
-## 
-##
+## The two functions 'makeCacheMatrix' and 'cacheSolve' caches the inverse of a matrix object, retrieves the 
+## cached inverse and/or calculates the inverse.
 
 ## This function creates a special 'matrix' object that gets a matrix, sets the value of that matrix
 ## sets the inverse of that matrix and gets the inverse of that matrix.
